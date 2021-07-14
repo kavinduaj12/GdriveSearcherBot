@@ -13,19 +13,11 @@ DRIVE_NAME = [
 ]
 
 DRIVE_ID = [
-    "1B9A3QqQqF31IuW2om3Qhr-wkiVLloxw8",  # folder 1 id
-    "12wNJTjNnR-CNBOTnLHqe-1vqFvCRLecn",  # folder 2 id
-    "11nZcObsJJHojHYg43dBS0_eVvJrSD7Nf",  # and so onn... folder n id
-    "10_hTMK8HE8k144wOTth_3x1hC2kZL-LR",
-    "1-oTctBpyFcydDNiptLL09Enwte0dClCq",
-    "1B9A3QqQqF31IuW2om3Qhr-wkiVLloxw8"
+    "13nOEugv_MhgIFuXm1MY5UXAWGfV622_X",  # folder 1 id
+
 ]
 
 INDEX_URL = [
-    "https://dl.null.tech/0:",  # folder 1 index link
-    "https://dl.null.tech/0:/Cartoon",  # folder 2 index link
-    "https://dl.null.tech/0:/Course",  # and soo on folder n link
-    "https://dl.null.tech/0:/MOVIES",
-    "https://dl.null.tech/0:/Series",
-    "https://dl.null.tech/0:/Roms"
+    "https://mirrordownload.lkhitech8.workers.dev/0",  # folder 1 index link
+
 ]
